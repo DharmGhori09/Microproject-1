@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Toronto",
+    "description": "Famous for the CN Tower and a multicultural urban environment."
+  },
+  {
+    "id": 2,
+    "name": "Ottawa",
+    "description": "Canada's capital, known for Parliament Hill and the Rideau Canal."
+  },
+  {
+    "id": 3,
+    "name": "Mississauga",
+    "description": "A diverse city with Square One Shopping Centre and Lake Ontario waterfront."
+  },
+  {
+    "id": 4,
+    "name": "Hamilton",
+    "description": "Known for its steel industry and scenic waterfalls."
+  },
+  {
+    "id": 5,
+    "name": "London",
+    "description": "A city with a strong education sector, home to Western University."
+  },
+  {
+    "id": 6,
+    "name": "Kitchener",
+    "description": "Famous for Oktoberfest and a growing tech industry."
+  },
+  {
+    "id": 7,
+    "name": "Windsor",
+    "description": "Located near Detroit, known for its auto industry and the waterfront."
+  },
+  {
+    "id": 8,
+    "name": "Kingston",
+    "description": "A historic city with Fort Henry and Queen’s University."
+  }
+]
